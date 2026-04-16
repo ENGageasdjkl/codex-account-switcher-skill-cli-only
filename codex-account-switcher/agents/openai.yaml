@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Account Switcher"
+  short_description: "Save, inspect, and switch Codex accounts with exact-session resume support."
+  default_prompt: "Use $codex-account-switcher to list, save, inspect, or switch Codex accounts. When this skill is installed into CODEX_HOME/skills it is already globally available. In the native supervised CLI, `use <name>` should switch accounts and resume the exact current session in the same terminal window."
